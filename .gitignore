@@ -1,0 +1,9 @@
+1g-word-1m-benchmark-r13output
+corpus.txt
+corpus
+*.ipynb
+.idea
+.ipynb_checkpoints
+logs
+param_tests
+liste_mots_devoir4.txt
