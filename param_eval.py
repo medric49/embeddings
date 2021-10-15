@@ -10,4 +10,5 @@ if __name__ == '__main__':
         if training_time is None:
             continue
         print(k, training_time)
+    # print(eval(corpus_file, id=9, dim=275, window=9, negative=17, log_parent_dir='logs'))
 
